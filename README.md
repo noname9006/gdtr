@@ -7,6 +7,12 @@ This port includes all features of the original Gravity Defied. In addition, we 
 
 ***We are not associated with Codebrew Software in any fashion. All rights to the original Gravity Defied, it's name, logotype, brand and all that stuff belongs to Codebrew Software.***
 
+# Sample screenshots
+Below are sample gameplay snapshots to give a quick feel for the classic Gravity Defied look.
+
+![Gameplay start](https://github.com/user-attachments/assets/c6d8c908-0e11-44d4-82a1-6824ab325769)
+![Gameplay jump](https://github.com/user-attachments/assets/b40b31f3-c3f1-41ed-98a9-a38f0a4d075f)
+
 # Download
 You can download the last version from:
 
@@ -26,4 +32,3 @@ You can download the last version from:
 * **Per David Jacobsson** - physics programming, game graphics, levels design
 
 For more information, please visit official site of Codebrew Software: [codebrew.se](http://codebrew.se)
-
